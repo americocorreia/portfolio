@@ -1,0 +1,27 @@
+.saiba-mais{
+    padding: 5px;
+    border-radius:5px ;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+.ilustracao{
+   height: auto; 
+    width: 355px;
+}
+.conteudo-testuais{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.introducao{
+    font-size: 35px;
+}
